@@ -245,3 +245,6 @@ By default, the API will be available at [http://localhost:8080/api-travels/v1](
 ### License
 
 This API is licensed under the MIT License.
+
+Practice code
+..............
